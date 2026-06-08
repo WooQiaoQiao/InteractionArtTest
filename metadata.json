@@ -1,0 +1,7 @@
+{
+  "name": "交互式3D粒子系统",
+  "description": "通过摄像头检测手势，实时控制3D粒子群的缩放与扩散，支持多种形状模板和颜色自定义。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
